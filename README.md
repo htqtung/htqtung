@@ -1,9 +1,8 @@
 ## Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htqtung)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **htqtung/htqtung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htqtung)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=htqtung&color=green)
 
 Here are some ideas to get you started:
 
